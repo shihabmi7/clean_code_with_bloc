@@ -18,6 +18,14 @@ A modular and scalable Note Taking application built with **Flutter**, using:
 - Clean navigation using `go_router`
 - Modular, testable code structure
 
+
+---
+
+## ScreenShot
+
+<img src ='https://github.com/shihabmi7/clean_code_with_bloc/blob/master/Screenshot_20250502_121157.png' width='400' height='700' > <img src ='https://github.com/shihabmi7/clean_code_with_bloc/blob/master/Screenshot_20250502_121228.png' width='400' height='700' >
+
+
 ---
 
 ## 📁 Project Structure
@@ -85,6 +93,8 @@ flutter run
 - [ ] Search/filter notes
 
 ## GITHUB CI/CD ADDED
+
+
 
 ---
 
