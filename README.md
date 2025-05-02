@@ -84,6 +84,8 @@ flutter run
 - [ ] Add light/dark theme switching
 - [ ] Search/filter notes
 
+## GITHUB CI/CD ADDED
+
 ---
 
 ## 👨‍💻 Maintainer
