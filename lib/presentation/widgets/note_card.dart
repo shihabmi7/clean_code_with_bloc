@@ -5,7 +5,7 @@ import '../../data/models/note_model.dart';
 class NoteCard extends StatelessWidget {
   final Note note;
 
-  NoteCard({required this.note});
+  const NoteCard({super.key, required this.note});
 
   @override
   Widget build(BuildContext context) {

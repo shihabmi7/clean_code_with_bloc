@@ -31,7 +31,7 @@ class NoteBloc extends Bloc<NoteEvent, NoteState> {
     });
 
     on<AddNewNote>((event, emit) {
-      print("Note added: ${event.aNote.title}");
+      //print("Note added: ${event.aNote.title}");
       repository.addNote(event.aNote);
       emit(NotesLoaded(repository.getAllNotes()));
     });
